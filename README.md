@@ -1,0 +1,2 @@
+# seiryofes.com
+Splash screen
